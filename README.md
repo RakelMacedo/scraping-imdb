@@ -49,7 +49,7 @@ $ python3 -m venv venv
 $ source venv/bin/activate
 ```
 
-* Em seguida, vamos baixax nossas bibliotecas com:
+* Em seguida, vamos baixar nossas bibliotecas com:
 ```bash
 $ pip install -r requirements.txt
 ```
