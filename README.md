@@ -1,7 +1,9 @@
 # scraping-imdb
-Scraping no site de filmes **IMDb**, trazendo os 100 filmes mais populares ordenado por *nome*, *ano* e *nota* em um arquivo csv.
+Scraping no site de filmes **IMDb**, trazendo os 100 filmes mais populares do momento ordenado por *nome*, *ano* e *nota* em um arquivo csv.
 
 Feito com Beautiful Soup, Requests e Python.
+
+### Arquivo csv após o scraping: 
 
 ```bash
 NAME,YEAR,NOTE
