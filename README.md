@@ -48,7 +48,7 @@ Crimes do Futuro,(2022),6.6
 ```
 $ git clone https://github.com/RakelMacedo/scraping-imdb.git
 
-$ cd scraping-imdb
+$ cd scraping-imdb/
 ```
 
 * Agora, vamos criar o nosso ambiente virtual e ativa-lo:
