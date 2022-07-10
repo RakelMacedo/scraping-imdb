@@ -1,4 +1,4 @@
-# scraping-imdb
+## 🎥 scraping-imdb
 Scraping no site de filmes **IMDb**, trazendo os 100 filmes mais populares do momento ordenado por *nome*, *ano* e *nota* em um arquivo csv.
 
 Feito com Beautiful Soup, Requests e Python.
@@ -25,7 +25,7 @@ Crimes do Futuro,(2022),6.6
 
 ##
 
-### Versões das tecnologias usadas:
+### 📑 Versões das tecnologias usadas:
 
 <table>
   <tr>
@@ -42,9 +42,16 @@ Crimes do Futuro,(2022),6.6
 
 ##
 
-### Como executar:
+### 🔨 Como executar:
 
-* Primeiramente, no nosso terminal vamos criar o nosso ambiente virtual e ativa-lo:
+* Clone o repositório e vá para a sua pasta:
+```
+$ git clone https://github.com/RakelMacedo/scraping-imdb.git
+
+$ cd scraping-imdb
+```
+
+* Agora, vamos criar o nosso ambiente virtual e ativa-lo:
 ```bash
 $ python3 -m venv venv
 
@@ -57,4 +64,4 @@ $ pip install -r requirements.txt
 ```
 ##
 
-Pronto! Você esta pronto para rodar este código! =)
+✅ Pronto! Você esta pronto para rodar este código! =)
