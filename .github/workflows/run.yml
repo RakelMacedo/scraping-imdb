@@ -27,3 +27,7 @@ jobs:
     - name: Rodando
       shell: bash 
       run: python main.py
+      
+    - name: Arquivo csv
+      shell: bash 
+      run: cat films.csv
