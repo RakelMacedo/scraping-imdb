@@ -62,6 +62,12 @@ $ source venv/bin/activate
 ```bash
 $ pip install -r requirements.txt
 ```
+
+* Rode com: 
+```bash
+$ python main.py
+```
+
 ##
 
-✅ Pronto! Você esta pronto para rodar este código! =)
+✅ Prontinho! =)
